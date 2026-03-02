@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -14,19 +14,19 @@ body {
     }
 }
 
-h1,
-h2 {
-    text-align: center;
-    font-family: "Quattrocento", Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
-    padding: 0;
-}
-
 h1 {
     font-size: 30pt;
     margin-bottom: 10px;
     color: #00ffe7;
     text-shadow: 0 0 12px #00ffe7, 0 0 30px #00ffe790;
+    font-family: 'Rubik Iso', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Quattrocento", Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
 }
 
 h2 {

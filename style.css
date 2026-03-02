@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
 
-/* ── CYBERPUNK PALETTE ──────────────────────────────
-   Background:  #050d1a  (near-black navy)
-   Surface:     #0a1628  (dark blue)
-   Primary:     #00ffe7  (bright turquoise / cyan)
-   Accent:      #0099cc  (mid cyan)
-   Muted:       #1a3a5c  (muted blue)
-   Text body:   #7ecfdf  (soft cyan-gray)
-   ─────────────────────────────────────────────── */
-
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
